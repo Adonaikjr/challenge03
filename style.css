@@ -60,6 +60,7 @@ section {
   justify-content: space-evenly;
   align-items: center;
   background-color: var(--backgroundSection);
+  border-radius: 10px;
 }
 
 section h1 {
@@ -145,5 +146,9 @@ button:active {
 
   section {
     height: 100%;
+  }
+  span{
+    margin-left: 2rem;
+    justify-content: start;
   }
 }
