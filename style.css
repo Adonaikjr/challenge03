@@ -125,7 +125,7 @@ button:active {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    border: solid transparent;
+    border: none;
     height: 35rem;
   }
   .backgroundImage {
